@@ -1,0 +1,3 @@
+1)La estructura secuencial sigue un orden de ejecucion de instrucciones de forma secuencial, una instruccion despues de la otra.
+  La estructura iterativa esta se ejecuta cero o mas veces un grupo de instrucciones
+2)Una funcion es un bloque de codigo que realiza alguna operacion. Estas devuelven un valor si o si y no deben modificar el entorno 
